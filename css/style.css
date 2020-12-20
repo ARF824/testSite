@@ -321,6 +321,9 @@ pre{
     justify-self: center;
     margin: auto;
     animation: slideInFromBottom 1s ease-in;
+    width: 100%;
+    min-width: 155.5px;
+    max-width: 400px;
   }
 
   .cli .grid > *:first-child{
