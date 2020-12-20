@@ -251,6 +251,6 @@
 
 @media (max-width:600px){
   .container {
-    overflow: auto;
+    max-width: 100%;
   }
 }
